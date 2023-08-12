@@ -1,0 +1,19 @@
+{
+  "email": "",
+  "password": "",
+  "bitrate": 8000,
+  "threads": 4000,
+  "fps": 60,
+  "subreddit": "https://www.reddit.com/r/AskReddit/",
+  "prefixes": {
+    "background": "Parkour",
+    "video": "Short"
+  },
+  "folders": {
+    "Subtitles": "Subtitles/",
+    "Posts": "PostCredits/",
+    "Background": "MinecraftParkourFootage/",
+    "Narrations": "Narrations/",
+    "Videos": "Videos/"
+  }
+}
